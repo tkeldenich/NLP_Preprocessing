@@ -1,4 +1,4 @@
-# **Preprocessing NLP - Tutoriel pour nettoyer rapidement un texte** - [voir article](https://inside-machinelearning.com/preprocessing-nlp-tutoriel-pour-nettoyer-rapidement-un-texte/)
+# **Preprocessing NLP - Tutoriel pour nettoyer rapidement un texte** - [voir l'article](https://inside-machinelearning.com/preprocessing-nlp-tutoriel-pour-nettoyer-rapidement-un-texte/)
 
 Je vous propose aujourd'hui **un tutoriel de Preprocessing NLP** pour voir en détail **comment nettoyer des données textes !**
  
