@@ -219,6 +219,8 @@ import string
 from french_lefff_lemmatizer.french_lefff_lemmatizer import FrenchLefffLemmatizer
  
 nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('stopwords')
 ```
 
     [nltk_data] Downloading package wordnet to /root/nltk_data...
