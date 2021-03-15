@@ -130,10 +130,6 @@ nltk.download('wordnet')
     [nltk_data] Downloading package wordnet to /root/nltk_data...
     [nltk_data]   Unzipping corpora/wordnet.zip.
 
-
-
-
-
     True
 
 
