@@ -190,11 +190,11 @@ Ensuite on peut **afficher** un exemple de **phrase nettoyée :**
 
 ```
 print('Phrase de base : '+train_data['text'][2])
-print('Phrase nettoyer : '+preprocess_list[2])
+print('Phrase nettoyée : '+preprocess_list[2])
 ```
 
     Phrase de base : 13,000 people receive #wildfires evacuation orders in California 
-    Phrase nettoyer : people receive wildfire evacuation order
+    Phrase nettoyée : people receive wildfire evacuation order
 
 
 ### **Texte en français**
@@ -297,11 +297,11 @@ Et on **regarde le résultat :**
 
 ```
 print('Phrase de base : '+lst[1])
-print('Phrase nettoyer : '+french_preprocess_list[1])
+print('Phrase nettoyée : '+french_preprocess_list[1])
 ```
 
     Phrase de base : plusieurs phrases pour un nettoyage
-    Phrase nettoyer : plusieurs phrase nettoyage
+    Phrase nettoyée : plusieurs phrase nettoyage
 
 
 # **Les différents encodages**
