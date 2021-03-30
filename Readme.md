@@ -1393,7 +1393,7 @@ Un **exemple** sera plus parlant :
 - "je joue au jeu vidéo" sera [1, 2, 3, 4, 5]
 - "je regarde une vidéo" sera [1, 6, 7, 5]
 
-Pour **cet endoge** on importe la **bibliothèque** *zeugma*. Si on est sur **Google Colab** on utilise la **commande suivante** :
+Pour **cet encodage** on importe la **bibliothèque** *zeugma*. Si on est sur **Google Colab** on utilise la **commande suivante** :
 
 
 ```
